@@ -1,1 +1,1 @@
-console.log("Trushant Rathod")
+console.log("Trushant")
