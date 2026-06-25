@@ -24,6 +24,5 @@ let myTimeStamp = Date.now()
 
 
 let newDate = new Date()
-
 console.log(newDate)
 console.log(newDate.getMonth())
